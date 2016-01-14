@@ -1,7 +1,5 @@
 <html>
 	<body>
-		<header>
 		<h1>git file</h1>
-		</header>
 	</body>
 </html>
