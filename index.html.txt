@@ -18,7 +18,11 @@
 			<li>d</li>
 			<li>ds</li>
 			<li>hi</li>
+<<<<<<< HEAD
 			<li>dd</li>
 			<li>ss</li>
+=======
+			<li>bye</li>
+>>>>>>> 1ad2860ec16dc15e3b4e51a2e72d48dfec31f7b3
 	</body>
 </html>
