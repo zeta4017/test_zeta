@@ -1,5 +1,9 @@
 <html>
 	<body>
-		<h1>git file</h1>
+		<header>
+			<h1>git file</h1>
+		</header>
+			<li>저장소</li>
+			<li>버전</li>
 	</body>
 </html>
