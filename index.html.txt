@@ -3,9 +3,10 @@
 		<header>
 			<h1>git file</h1>
 		</header>
-		<ul>
-			<li>git이란?</li>
-			<li>버전</li>
+			<ul>
+				<li>git이란?</li>
+				<li>버전</li>
+				<li>gg</li>
 			</ul>
 	</body>
 </html>
