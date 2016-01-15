@@ -1,5 +1,5 @@
 <html>
-	<header></header>
+	<head></head>
 	<body>
 		<header>
 			<h1>git file</h1>
