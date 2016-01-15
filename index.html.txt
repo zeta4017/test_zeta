@@ -1,12 +1,22 @@
 <html>
+	<head></head>
 	<body>
 		<header>
 			<h1>git file</h1>
 		</header>
+<<<<<<< HEAD
 			<ul>
 				<li>git이란?</li>
 				<li>버전</li>
 				<li>gg</li>
 			</ul>
+=======
+			<li>저장소</li>
+			<li>버전</li>
+			<li>뭐</li>
+			<li>?????</li>
+			<li>,,,</li>
+			<li>ll</li>
+>>>>>>> 실험
 	</body>
 </html>
